@@ -6,8 +6,8 @@ int main(void){
 	printf("%d * %d = %d\n", 1, 2, 1*2);
 	
 
-	for( int i=1 ; i<=9 ; i++ )
-	    for( int j=1 ; j<=9 ; j++ )
+	for( int i=8 ; i<=9 ; i++ )
+	    for( int j=8 ; j<=9 ; j++ )
 		printf("%d * %d = %d\n", i, j, i*j);
 
 
