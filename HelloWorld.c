@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	printf("Hello World!\n");
+	printf("Hello World! this is 99dan\n");
 	printf("%d * %d = %d\n", 1, 2, 1*2);
 	
 
