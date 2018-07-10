@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(void){
+
+	printf("ggg");
 	printf("Hello World!\n");
 	printf("Argos");
 	printf("%d * %d = %d\n", 1, 2, 1*2);
